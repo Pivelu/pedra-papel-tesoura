@@ -1,5 +1,5 @@
 {
-    "name": "pedra papel tesoura",
+    "name": "“Aula19_Napratica_21",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -15,7 +15,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "6.0.25",
+        "target": "6.0.28",
         "targetId": "microbit"
     },
     "supportedTargets": [
